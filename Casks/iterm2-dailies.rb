@@ -1,6 +1,6 @@
-cask "truls-iterm2-nightly" do
+cask "iterm2-dailies" do
   # NOTE: "2" is not a version number, but an intrinsic part of the product name
-  version "3_5_20221228"
+  version "3_5_20221231"
   sha256 "c8eec927fc86eb010a9134aff6ef52891edb1f44580ae871b30db8475b7b17bd"
 
   url "https://iterm2.com/nightly/iTerm2-3_5_20221231-nightly.zip"
